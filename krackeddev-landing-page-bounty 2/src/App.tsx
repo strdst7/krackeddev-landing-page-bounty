@@ -46,7 +46,7 @@ export default function App() {
 
   return (
     <LangProvider>
-      <AnimatePresence mode="wait">
+      <AnimatePresence>
         <motion.div
           key={concept}
           initial={{ opacity: 0 }}
