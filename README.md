@@ -179,19 +179,6 @@ Community visualised as a living garden where members contribute, grow, mentor a
 - Community care
 - Soft editorial design
 - Garden ecosystems
-
----
-
-# 🖼️ Concept Gallery
-
-| Kampung Print | Pasar Malam |
-|---------------|-------------|
-| ./docs/images/kampung-print.png | ./docs/images/pasar-malam.png |
-
-| Sandbox | Bunga Club |
-|----------|------------|
-| ./docs/images/sandbox.png | ./docs/images/bunga-club.png |
-
 ---
 
 # ✨ Experience Highlights
