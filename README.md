@@ -71,7 +71,8 @@ Inspired by community noticeboards, independent publications, local zines, kampu
 - Interactive sticker system
 
 <p align="center">
-  ./docs/images/kampung-print.png
+  <img width="2240" height="1260" alt="Screenshot 2026-10-10 at 5 16 47 PM" src="https://github.com/user-attachments/assets/66f9d118-b19b-4ae1-a022-de205cf2755f" />
+
 </p>
 
 ### Design Influences
@@ -107,7 +108,8 @@ Alive.
 - Experimental canvas interactions
 
 <p align="center">
-  ./docs/images/pasar-malam.png
+ <img width="2240" height="1260" alt="Screenshot 2026-10-10 at 5 16 57 PM" src="https://github.com/user-attachments/assets/2b4a49f1-8d43-4f20-818c-7a3aa0070609" />
+
 </p>
 
 ### Design Influences
@@ -136,7 +138,8 @@ A creative lab for experimentation, customisation, identity, and play.
 - Interactive canvas art
 
 <p align="center">
-  ./docs/images/sandbox.png
+  <img width="2240" height="1260" alt="Screenshot 2026-10-10 at 5 17 28 PM" src="https://github.com/user-attachments/assets/f7d50dfb-796b-4dca-b786-120836e49aa0" />
+
 </p>
 
 ### Design Influences
@@ -165,7 +168,8 @@ Community visualised as a living garden where members contribute, grow, mentor a
 - Growth journeys
 
 <p align="center">
-  ./docs/images/bunga-club.png
+  <img width="4480" height="2520" alt="Screenshot 2026-10-10 at 5 17 36 PM" src="https://github.com/user-attachments/assets/c014e276-1316-4fa7-b017-5a7e77747d3d" />
+
 </p>
 
 ### Design Influences
