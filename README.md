@@ -1,10 +1,10 @@
-# KrackedDev Landing Page Concepts
 
 <p align="center">
 
 # 🇲🇾 KrackedDev Landing Page Concepts
 
 ### Four interactive landing-page concepts exploring what a Malaysian builder ecosystem could look like.
+
 
 
 
