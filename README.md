@@ -2,16 +2,24 @@
 
 <p align="center">
 
-
-
-
 # 🇲🇾 KrackedDev Landing Page Concepts
 
 ### Four interactive landing-page concepts exploring what a Malaysian builder ecosystem could look like.
 
+
+
+
+
+
+
+
+
+
 <br>
 
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https:lang.org/)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ilwindcss.com/)
+![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-<br/)
 
 </div>
 
