@@ -45,7 +45,7 @@ export default function App() {
 
   return (
     <>
-      <AnimatePresence mode="wait">
+      <AnimatePresence>
         <motion.div
           key={concept}
           initial={{ opacity: 0 }}
