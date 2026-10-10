@@ -1,255 +1,367 @@
 # KrackedDev Landing Page Concepts
 
-## Four interactive landing page directions for KrackedDev, a Malaysia-rooted builder community.
-
-This repository is a frontend concept showcase exploring visual identity, community storytelling, and interactive experiences. It is not a production bounty platform, membership system, or operational community portal.
-
-Live Demo
-
-🔗 View Live Demo
-
-### Overview
-
-KrackedDev is more than a developer community.
-
-It is envisioned as:
-
-A builder community
-A learning ecosystem
-A product laboratory
-A launchpad for Malaysian creators, developers, designers, founders, and tinkerers
-
-This project explores four distinct visual and interaction directions that could represent the future identity of the platform.
-
-Each concept investigates a different interpretation of what a modern Malaysian builder community might feel like.
-
-Concepts
-01 · Kampung Print
-
-Direction: Warm • Editorial • Risograph-inspired
+<p align="center">
 
-A celebration of local textures, community noticeboards, indie publications, and handcrafted digital culture.
 
-Explore
-Community storytelling
-Builder spotlights
-Bounties
-Events
-FAQ sections
-Click-to-stamp sticker interactions
-Design Themes
-Batik-inspired patterns
-Print-shop aesthetics
-Paper textures
-Hibiscus colour palettes
-Editorial typography
-02 · Pasar Malam
 
-Direction: Dark • Kinetic • Playful
-
-Inspired by Malaysia's night markets, neon signage, loud energy, and organised chaos.
 
-Explore
-Animated navigation
-Interactive bounty displays
-Guild systems
-Community activity signals
-Motion-heavy interactions
-Experimental cursor effects
-Design Themes
-Neon signage
-Poster typography
-Canvas effects
-Motion graphics
-Digital street culture
-03 · Sandbox
+# 🇲🇾 KrackedDev Landing Page Concepts
 
-Direction: Design Playground
+### Four interactive landing-page concepts exploring what a Malaysian builder ecosystem could look like.
 
-A space where members experiment, customise and create.
+<br>
 
-Explore
-Presets
-Style generators
-Interactive controls
-Live typography experiments
-Generative canvas art
-Manglish-inspired interactions
-Member card builder
-Design Themes
-Creative tooling
-Builder culture
-Personal identity
-Rapid experimentation
-04 · Bunga Club
 
-Direction: Garden-Inspired • Soft Kinetic
 
-The default landing experience.
+</div>
 
-An interpretation of community as a living garden where members grow, contribute and help others flourish.
+---
 
-Explore
-Guild networks
-Community pathways
-Curated bounty discovery
-Growth journeys
-Interactive member garden
-Design Themes
-Organic motion
-Botanical patterns
-Soft editorial layouts
-Community growth metaphors
-Navigation
+## 🌟 Overview
 
-The application initially opens in Bunga Club.
+KrackedDev is envisioned as more than a developer community.
 
-Switch Concepts
+It is:
 
-Use either:
+- 🚀 A builder ecosystem
+- 🎓 A learning platform
+- 🏗️ A product laboratory
+- 🤝 A community of makers, designers, developers, and founders
+- 🇲🇾 A Malaysian-rooted digital movement
 
-The fixed concept switcher at the bottom of the page
-Keyboard shortcuts
-Key	Concept1	Kampung Print
-2	Pasar Malam
-3	Sandbox
-4	Bunga Club
+This repository explores four radically different design directions for how the KrackedDev experience could look, feel, and evolve.
 
-Keyboard shortcuts are automatically disabled while typing inside:
+Rather than following generic SaaS patterns, each concept experiments with local identity, cultural storytelling, community interaction, and experimental frontend experiences.
 
-Input fields
-Textareas
-Select elements
-Important Disclaimer
+---
 
-This project demonstrates user interfaces, design systems and interaction concepts.
+## 🔗 Live Demo
 
-All data is bundled as sample content.
+<div align="center">
 
-The following should not be interpreted as live or operational:
+### 👉 [View Interactive Demo](https://krackeddev-creativelp.vercel.app/)
 
-Bounties
-Rewards
-Applicants
-Member statistics
-XP totals
-Events
-Community metrics
-Examples
-Bunga Club
+</div>
 
-Selecting a bounty only updates page state.
+---
 
-It does not:
+# 🎨 Concepts
 
-Submit an application
-Notify moderators
-Register interest
-Community Garden
+## 🌺 01 · Kampung Print
 
-Planting a flower only affects the current browser session.
+> Warm • Editorial • Risograph-Inspired
 
-It is not:
+Inspired by community noticeboards, independent publications, local zines, kampung storytelling, and print-shop culture.
 
-Public
-Persistent
-Linked to a real account
-Email Sign-up Form
+### Explore
 
-The welcome message is a prototype state.
+- Community showcases
+- Builder stories
+- Bounty listings
+- Events
+- FAQs
+- Interactive sticker system
 
-No email is sent.
+<p align="center">
+  ./docs/images/kampung-print.png
+</p>
 
-No registration occurs.
+### Design Influences
 
-Member Cards
+- Batik patterns
+- Print textures
+- Editorial layouts
+- Hibiscus colour palettes
+- Traditional community spaces
 
-Sandbox membership cards are visual previews only.
+---
 
-They are not verified credentials.
+## 🌃 02 · Pasar Malam
 
-Security Notice
+> Dark • Kinetic • Playful
 
-Do not submit:
+A high-energy interpretation of Malaysia's night market culture.
 
-Personal information
-Financial data
-Authentication credentials
-Sensitive records
+Fast.
 
-until appropriate backend integrations and security controls have been implemented.
+Colourful.
 
-### Tech Stack
+Loud.
 
-Built using:
+Alive.
 
-React 19
-TypeScript
-Vite 7
-Tailwind CSS 4
-Framer Motion
-Lucide React
-vite-plugin-singlefile
-Features
-Interactive concept switching
-Animated transitions
-Responsive layouts
-Keyboard navigation
-Localisation support
-Accessibility-friendly motion handling
-Local storage preferences
-Run Locally
-Requirements
-Node.js
-npm
+### Explore
 
-Compatible with the Vite 7 toolchain included in the repository.
+- Animated navigation
+- Community signals
+- Guild systems
+- Interactive bounty boards
+- Experimental canvas interactions
 
-Clone Repository
-git clone https://github.com/strdst7/krackeddev-landing-page-bounty.git
-cd krackeddev-landing-page-bounty
+<p align="center">
+  ./docs/images/pasar-malam.png
+</p>
 
-Run the Newer Version
-cd "krackeddev-landing-page-bounty 2"
+### Design Influences
 
-npm ci
-npm run dev
+- Neon signage
+- Street posters
+- Night-market energy
+- Motion graphics
+- Youth internet culture
 
+---
 
-Open the URL displayed in the terminal.
+## 🧪 03 · Sandbox
 
-Run the Original Version
-cd krackeddev-landing-page-bounty
+> Design Playground
 
-npm ci
-npm run dev
+A creative lab for experimentation, customisation, identity, and play.
 
-Available Scripts
-npm run dev
+### Explore
 
+- Presets
+- Design generators
+- Live styling controls
+- Manglish text effects
+- Member-card creation
+- Interactive canvas art
 
-Start development server.
+<p align="center">
+  ./docs/images/sandbox.png
+</p>
 
-npm run build
+### Design Influences
 
+- Creative tooling
+- Internet culture
+- Builder workflows
+- Personal expression
 
-Create production build.
+---
 
-npm run preview
+## 🌼 04 · Bunga Club
 
+> Garden-Inspired • Soft Kinetic
 
-Preview production build locally.
+The default concept and current landing experience.
 
-Repository Structure
+Community visualised as a living garden where members contribute, grow, mentor and help others flourish.
+
+### Explore
+
+- Community gardens
+- Growth pathways
+- Guild networks
+- Filtered bounties
+- Growth journeys
+
+<p align="center">
+  ./docs/images/bunga-club.png
+</p>
+
+### Design Influences
+
+- Botanical systems
+- Organic growth
+- Community care
+- Soft editorial design
+- Garden ecosystems
+
+---
+
+# 🖼️ Concept Gallery
+
+| Kampung Print | Pasar Malam |
+|---------------|-------------|
+| ./docs/images/kampung-print.png | ./docs/images/pasar-malam.png |
+
+| Sandbox | Bunga Club |
+|----------|------------|
+| ./docs/images/sandbox.png | ./docs/images/bunga-club.png |
+
+---
+
+# ✨ Experience Highlights
+
+✅ Four complete community experiences
+
+✅ Interactive concept switching
+
+✅ Keyboard-powered navigation
+
+✅ English & Bahasa Melayu support
+
+✅ Framer Motion transitions
+
+✅ Responsive layouts
+
+✅ Local-first cultural identity
+
+✅ Accessibility-aware motion handling
+
+✅ Interactive community mechanics
+
+✅ Experimental UI systems
+
+✅ Single-file deployment support
+
+✅ Custom design systems
+
+---
+
+# ⌨️ Keyboard Navigation
+
+Bunga Club opens by default.
+
+Switch between concepts using:
+
+| Key | Concept |
+|------|----------|
+| 1 | Kampung Print |
+| 2 | Pasar Malam |
+| 3 | Sandbox |
+| 4 | Bunga Club |
+
+Keyboard shortcuts automatically disable when a user is typing within:
+
+- Input fields
+- Textareas
+- Select elements
+
+---
+
+# ⚠️ Disclaimer
+
+This repository demonstrates design concepts and interactive prototypes.
+
+All data is bundled sample content.
+
+The following are **not operational services**:
+
+- Bounty listings
+- Applications
+- Community statistics
+- Reward systems
+- Member credentials
+- Event registrations
+- XP systems
+
+---
+
+## Example Behaviours
+
+### 🌼 Bunga Club
+
+Selecting a bounty:
+
+✅ Updates page state
+
+❌ Does not create an application
+
+❌ Does not notify administrators
+
+---
+
+### 🌱 Community Garden
+
+Planting flowers:
+
+✅ Creates local visual feedback
+
+❌ Is not publicly recorded
+
+❌ Is not linked to an account
+
+---
+
+### 📧 Sign-up Flow
+
+Joining the waitlist:
+
+✅ Displays a prototype confirmation
+
+❌ Does not send email
+
+❌ Does not create membership
+
+---
+
+### 🪪 Sandbox Member Cards
+
+Creating a member card:
+
+✅ Generates a visual preview
+
+❌ Does not create credentials
+
+❌ Is not identity verification
+
+---
+
+# 🛡 Security Notice
+
+Until proper backend services and verification systems are implemented:
+
+**Do not submit**
+
+- Personal data
+- Authentication credentials
+- Payment information
+- Government identifiers
+- Sensitive documents
+
+through demonstration forms.
+
+---
+
+# 🏗 Technology Stack
+
+## Frontend
+
+- React 19
+- TypeScript
+- Vite 7
+- Tailwind CSS 4
+- Framer Motion
+- Lucide Icons
+
+## Tooling
+
+- vite-plugin-singlefile
+- npm
+- ESLint-ready architecture
+
+---
+
+# 📂 Repository Structure
+
+```text
 .
 ├── LICENSE
 ├── README.md
+├── docs/
+│   ├── images/
+│   │   ├── hero-preview.png
+│   │   ├── bunga-club.png
+│   │   ├── kampung-print.png
+│   │   ├── pasar-malam.png
+│   │   └── sandbox.png
+│   │
+│   └── gifs/
+│       ├── concept-switch.gif
+│       ├── garden.gif
+│       ├── member-card.gif
+│       ├── pasar-effects.gif
+│       └── sticker-mode.gif
+│
 ├── krackeddev-landing-page-bounty/
 │   ├── index.html
 │   ├── package.json
 │   ├── package-lock.json
 │   ├── vite.config.ts
 │   └── src/
+│
 └── krackeddev-landing-page-bounty 2/
     ├── index.html
     ├── package.json
@@ -263,114 +375,204 @@ Repository Structure
         ├── assets/
         ├── components/
         ├── concepts/
-        │   ├── Garden.tsx
-        │   ├── Kampung.tsx
-        │   └── Sandbox.tsx
         └── pasar/
+```
 
-Architecture
-App Layer
+---
 
+# ⚙️ Architecture
+
+## App Shell
+
+```text
 src/App.tsx
+```
 
 Responsible for:
 
-Active concept state
-Keyboard shortcuts
-Fixed concept switcher
-Concept rendering
-Shared Data
+- Concept switching
+- Keyboard listeners
+- State management
+- Global navigation
 
+---
+
+## Shared Data
+
+```text
 src/data.ts
+```
 
-Provides sample content for:
+Holds:
 
-Bounties
-Members
-Guilds
-Events
-FAQ
-Concepts
+- Sample bounties
+- Community members
+- Guilds
+- Community events
+- FAQ content
 
-Located in:
+---
 
+## Concepts
+
+```text
 src/concepts/
 src/pasar/
+```
 
+Each concept is intentionally independent, allowing completely different visual systems and interaction paradigms.
 
-Each concept is implemented independently to allow unique interaction systems and visual design approaches.
+---
 
-Localisation
+## Localisation
 
-The second project copy includes:
+The second application includes:
 
+```text
 src/boilerplate.tsx
+```
 
+Supporting:
 
-Features:
-
-English support
-Bahasa Melayu support
-Language persistence
-Local storage integration
+- English
+- Bahasa Melayu
+- Persistent language preference
 
 Stored under:
 
+```text
 kd-lang
+```
 
-Development Workflow
-Select the target app directory.
-Edit content inside src/data.ts.
-Modify concept-specific behaviour inside the respective concept component.
-Update bilingual copy in src/boilerplate.tsx when applicable.
-Run build validation.
-npm run build
+inside browser local storage.
 
-Verify interactions through the development server.
+---
+
+# 🚀 Getting Started
+
+## Requirements
+
+- Node.js
+- npm
+
+Compatible with the Vite 7 toolchain.
+
+---
+
+## Clone Repository
+
+```bash
+git clone https://github.com/strdst7/krackeddev-landing-page-bounty.git
+cd krackeddev-landing-page-bounty
+```
+
+---
+
+## Run Newer Version
+
+```bash
+cd "krackeddev-landing-page-bounty 2"
+
+npm ci
 npm run dev
+```
 
-Deployment
+---
 
-Each app directory is an independent Vite application.
+## Run Original Version
 
-For Vercel:
+```bash
+cd "krackeddev-landing-page-bounty"
 
-Build Command
+npm ci
+npm run dev
+```
+
+---
+
+# 📜 Available Scripts
+
+## Development
+
+```bash
+npm run dev
+```
+
+Start Vite development server.
+
+---
+
+## Production Build
+
+```bash
 npm run build
+```
 
-Output Directory
-dist
+Build production assets.
 
-Root Directory
+---
 
-Set the project root to the specific app directory being deployed.
+## Preview
 
-Example:
+```bash
+npm run preview
+```
 
-krackeddev-landing-page-bounty 2/
+Serve production build locally.
 
+---
 
-The repository root itself is not a deployable Vite application.
+# 🧪 Development Workflow
 
-Design Philosophy
+1. Select the target application directory
+2. Modify content and interactions
+3. Run build validation
+4. Test responsiveness
+5. Verify keyboard interactions
+6. Review both desktop and mobile experiences
 
-Rather than imitating modern SaaS aesthetics, this project explores a distinctly Malaysian visual language for developer communities.
+```bash
+npm run build
+npm run dev
+```
 
-Themes include:
+---
 
-Kampung culture
-Batik motifs
-Pasar Malam energy
-Community gardens
-Builder-led learning
-Creative experimentation
+# 🌏 Design Philosophy
 
-The goal is to imagine what a local-first builder ecosystem might look and feel like when designed from its own cultural foundations.
+Most developer communities adopt global SaaS aesthetics.
 
-License
+This project explores another possibility.
 
-MIT License
+What would a Malaysian builder ecosystem look like if it embraced:
 
-Copyright © 2026 Nur Amirah Mohd Kamil
+- Local identity
+- Community storytelling
+- Cultural references
+- Creative experimentation
+- Playfulness
+- Human-centred design
 
-See the LICENSE file for details.
+KrackedDev Landing Page Concepts is an attempt to answer that question through design.
+
+---
+
+# 🙌 Acknowledgements
+
+Inspired by:
+
+- Malaysian maker culture
+- Local builder communities
+- Independent design publications
+- Open-source ecosystems
+- Community-led learning initiatives
+
+---
+
+# 📄 License
+
+Released under the MIT License.
+
+Copyright © 2026 Nur Amirah Mohd Kamil.
+
+See LICENSE for details.
